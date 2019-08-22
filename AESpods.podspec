@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-       A FirstPods Demo
+       Help developer to quickly  A FirstPods Demo
                    DESC
 
   spec.homepage     = "https://github.com/2672405704/AESpods"
