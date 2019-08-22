@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "AESpods"
   spec.version      = "1.0.0"
-  spec.summary      = "A FirstPods Demo"
+  spec.summary      = "A FirstPods Demo For iOS"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
